@@ -19,3 +19,5 @@ icons, and a boot screen with cacti growing out of the Omarchy wordmark.
 ![Sunlit Sands desktop](https://raw.githubusercontent.com/Korrin-F/omarchy-sunlit-sands-light-theme/main/screenshots/desktop.webp)
 
 **Moonlit Sands (dark)** — the same desert at night. In the works.
+
+I would be glad to be considered for [Omarchy AIR](https://omarchy.org/air/).
