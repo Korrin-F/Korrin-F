@@ -11,14 +11,14 @@ contributing to the Omarchy community.
 
 ## Omarchy themes
 
-**Sunlit Sands (light)** — the Arizona desert at high noon. Warm sand pages
+**Sunlit Sands** — the Arizona desert at high noon. Warm sand pages
 under cool sky panels, six painted wallpapers, a hand-drawn set of mesa folder
 icons, and a boot screen with cacti growing out of the Omarchy wordmark.
-[Repository](https://github.com/Korrin-F/omarchy-sunlit-sands-light-theme)
+[Repository](https://github.com/Korrin-F/omarchy-sunlit-sands-theme)
 
-![Sunlit Sands desktop](https://raw.githubusercontent.com/Korrin-F/omarchy-sunlit-sands-light-theme/main/screenshots/desktop.webp)
+![Sunlit Sands desktop](https://raw.githubusercontent.com/Korrin-F/omarchy-sunlit-sands-theme/main/screenshots/desktop.webp)
 
-**Moonlit Sands (dark)** — the same desert at night. In the works.
+**Moonlit Sands** — the same desert at night. In the works.
 
 I would be glad to be considered for [Omarchy AIR](https://omarchy.org/air/).
 
