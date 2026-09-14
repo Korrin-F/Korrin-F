@@ -14,6 +14,7 @@ contributing to the Omarchy community.
 **Sunlit Sands** — the Arizona desert at high noon. Warm sand pages
 under cool sky panels, six painted wallpapers, a hand-drawn set of mesa folder
 icons, and a boot screen with cacti growing out of the Omarchy wordmark.
+Every part of it was hand-tuned: the wallpapers, the folder icons, the boot screen, and each app's colours checked on screen one by one.
 [Repository](https://github.com/Korrin-F/omarchy-sunlit-sands-theme)
 
 ![Sunlit Sands desktop](https://raw.githubusercontent.com/Korrin-F/omarchy-sunlit-sands-theme/main/screenshots/desktop.webp)
