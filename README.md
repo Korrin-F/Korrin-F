@@ -21,3 +21,7 @@ icons, and a boot screen with cacti growing out of the Omarchy wordmark.
 **Moonlit Sands (dark)** — the same desert at night. In the works.
 
 I would be glad to be considered for [Omarchy AIR](https://omarchy.org/air/).
+
+## Contact
+
+Discord: `luna_evergreen`, also on the [Omarchy server](https://discord.gg/tXFUdasqhY).
